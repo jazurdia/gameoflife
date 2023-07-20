@@ -10,7 +10,7 @@ El proyecto ha sido desarrollado utilizando el lenguaje de programación C++.
 
 A continuación, puedes ver una demostración visual del juego en acción:
 
-![Demostración](Conway Game of Life.gif)
+![Demostración](https://github.com/jazurdia/gameoflife/blob/07b1c405f86feff0c9970f0c5b66f8dfa9ed4fb3/Conway%20Game%20of%20Life.gif)
 
 ## Descripción
 
