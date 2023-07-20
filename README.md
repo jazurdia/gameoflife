@@ -6,11 +6,21 @@ Este repositorio contiene una implementación del famoso juego "Conway's Game Of
 
 El proyecto ha sido desarrollado utilizando el lenguaje de programación C++. 
 
-## Demostración
+## Demostración 
 
 A continuación, puedes ver una demostración visual del juego en acción:
 
 ![Demostración](https://github.com/jazurdia/gameoflife/blob/07b1c405f86feff0c9970f0c5b66f8dfa9ed4fb3/Conway%20Game%20of%20Life.gif)
+
+## Figura R-pentomino
+
+El R-pentomino es una forma compuesta por cinco células en forma de "R". En el juego de la vida de Conway, el R-pentomino es interesante debido a su comportamiento dinámico y su capacidad para generar patrones más complejos.
+
+En este proyecto, hemos incorporado la figura R-pentomino como parte del juego "Conway's Game Of Life". El R-pentomino se coloca inicialmente en la cuadrícula y su evolución interactúa con otras células del juego, creando patrones en movimiento y cambiando la configuración general del tablero.
+
+Puedes observar cómo el R-pentomino interactúa con el entorno y cómo afecta la evolución del juego al ejecutar nuestro código. Explora las dinámicas y los patrones que surgen a medida que el R-pentomino se mueve y se combina con otras células.
+
+¡Diviértete descubriendo las sorprendentes posibilidades del R-pentomino en el juego de la vida!
 
 ## Descripción
 
